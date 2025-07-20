@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab7.py
+=================================================================
+    User login name: tenzin
+    Linux system name: tenzin-VirtualBox
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/tenzin/ops445/lab7
+    Start at: Sun Jul 20 11:02:43 2025
+=================================================================
